@@ -1,2 +1,2 @@
 # Js-Challenges
- A collection a small javascript projects
+ A collection of small javascript projects
